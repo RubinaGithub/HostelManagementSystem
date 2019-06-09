@@ -1,0 +1,3 @@
+﻿Rubina,2200
+Israt,1500
+Nadia,2000
